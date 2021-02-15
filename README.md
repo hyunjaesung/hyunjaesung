@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[![Stevy's github stats](https://github-readme-stats.vercel.app/api?username=hyunjaesung)](https://github.com/hyunjaesung)
+
 <!--
 **hyunjaesung/hyunjaesung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
