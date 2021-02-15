@@ -1,8 +1,7 @@
 [![Stevy's github stats](https://github-readme-stats.vercel.app/api?username=hyunjaesung)](https://github.com/hyunjaesung)
-
-
+  
+[![Blog](https://img.shields.io/badge/Blog-knowhere.io-9cf)](https://knowhere.oopy.io/) 
 [![TIL](https://img.shields.io/badge/TIL-https%3A%2F%2Fstevy--personal--space.oopy.io%2F-9cf)](https://stevy-personal-space.oopy.io/51ef09d7-e3fc-4e2a-839a-a40348eddb2a)  
-[![Blog](https://img.shields.io/badge/Blog-knowhere.io-9cf)](https://knowhere.oopy.io/)  
 [![Resume](https://img.shields.io/badge/resume-hyunjaesung's%20resume-9cf)](https://www.notion.so/Steve-Sung-885c9f83270e4b54af174cbb402b0d93)  
 
 <!--
