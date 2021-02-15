@@ -2,6 +2,8 @@
 
 
 [![TIL](https://img.shields.io/badge/TIL-https%3A%2F%2Fstevy--personal--space.oopy.io%2F-lightgrey)](https://stevy-personal-space.oopy.io/51ef09d7-e3fc-4e2a-839a-a40348eddb2a)
+[![Blog](https://img.shields.io/badge/Blog-knowhere-orange)](https://knowhere.oopy.io/)
+[![Resume](https://img.shields.io/badge/resume-hyunjaesung's%20resume-9cf)](https://www.notion.so/Steve-Sung-885c9f83270e4b54af174cbb402b0d93)
 
 <!--
 **hyunjaesung/hyunjaesung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
