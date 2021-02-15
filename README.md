@@ -11,8 +11,8 @@
 [![Blog](https://img.shields.io/badge/Blog-knowhere.io-lightgrey)](https://knowhere.oopy.io/)
 [![TIL](https://img.shields.io/badge/TIL-https%3A%2F%2Fstevy--personal--space.oopy.io%2F-lightgrey)](https://stevy-personal-space.oopy.io/51ef09d7-e3fc-4e2a-839a-a40348eddb2a)
 [![Resume](https://img.shields.io/badge/resume-hyunjaesung's%20resume-lightgrey)](https://www.notion.so/Steve-Sung-885c9f83270e4b54af174cbb402b0d93)  
-[![Instagram](https://img.shields.io/badge/instagram-%40steveysung-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stevysung/?hl=ko)
-![Clubhouse](https://img.shields.io/badge/Clubhouse-%40steveysung-yellowgreen?&logo=clubhouse&logoColor=white)
+[![Instagram](https://img.shields.io/badge/instagram-%40stevysung-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stevysung/?hl=ko)
+![Clubhouse](https://img.shields.io/badge/Clubhouse-%40stevysung-yellowgreen?&logo=clubhouse&logoColor=white)
 <!--
 **hyunjaesung/hyunjaesung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
