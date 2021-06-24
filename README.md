@@ -9,7 +9,7 @@
 [![Stevy's github stats](https://github-readme-stats.vercel.app/api?username=hyunjaesung)](https://github.com/hyunjaesung)
 
 [![Blog](https://img.shields.io/badge/Blog-wavyLog-lightgrey)](https://www.stevy.dev/)
-[![WhatILearnt](https://img.shields.io/badge/TIL-https%3A%2F%2FStevy'sTIL%2F-lightgrey)](https://www.notion.so/Stevy-s-Today-I-Learnt-51ef09d7e3fc4e2a839aa40348eddb2a)
+[![WhatILearnt](https://img.shields.io/badge/TIL-stevy'sTIL-lightgrey)](https://www.notion.so/Stevy-s-Today-I-Learnt-51ef09d7e3fc4e2a839aa40348eddb2a)
 [![Resume](https://img.shields.io/badge/Resume-hyunjaesung's%20resume-lightgrey)](https://www.notion.so/Steve-Sung-885c9f83270e4b54af174cbb402b0d93)  
 [![Instagram](https://img.shields.io/badge/Instagram-%40stevysung-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/stevysung/?hl=ko)
 ![Clubhouse](https://img.shields.io/badge/Clubhouse-%40stevysung-yellowgreen?&logo=clubhouse&logoColor=white)
