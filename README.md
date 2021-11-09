@@ -4,7 +4,8 @@
 ![Reactjs](https://img.shields.io/badge/Reactjs-9cf)
 ![Nodejs](https://img.shields.io/badge/Nodejs-43853d)
 ![Nestjs](https://img.shields.io/badge/Nestjs-ea2845)  
-[![TMON](https://img.shields.io/badge/TMON-Jul%2001%202019~-orange)](https://www.tmon.co.kr)
+[![TMON](https://img.shields.io/badge/TMON-Jul%20%202019~-orange)](https://www.tmon.co.kr)
+[![KAKAO](https://img.shields.io/badge/KAKAO-Nov%20%202021~-yellow)](https://www.kakaocorp.com/page/)
 
 [![Stevy's github stats](https://github-readme-stats.vercel.app/api?username=hyunjaesung)](https://github.com/hyunjaesung)
 
